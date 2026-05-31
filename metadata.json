@@ -1,0 +1,6 @@
+{
+  "name": "Angkringanku",
+  "description": "Akses menu lezat tradisional, kelola keranjang belanja, dan kirim pesanan angkringan khas Indonesia langsung ke WhatsApp secara otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
